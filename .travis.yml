@@ -1,4 +1,4 @@
-language: ruby
+language: 中文
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
